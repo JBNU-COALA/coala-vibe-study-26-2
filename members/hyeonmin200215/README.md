@@ -1,5 +1,6 @@
 # hyeonmin200215
 
+- Github: @hueonkeens
 - 프로젝트: 정하기
 - 프로젝트 저장소: 추가 예정
 - 데모: 추가 예정
